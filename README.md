@@ -6,7 +6,7 @@ A modern, responsive, and animated resume website built with **Next.js**, **Type
 
 ## 🔗 Live Demo
 
-👉 [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+👉 [https://my-resume-site-puce.vercel.app/](https://my-resume-site-puce.vercel.app/)  
 *(Replace with your actual deployed link)*
 
 ---

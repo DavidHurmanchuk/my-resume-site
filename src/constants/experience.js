@@ -1,32 +1,26 @@
 export const experienceJobs = [
   {
-    emoji: "🧑‍💻",
-    title: "Frontend Developer (Self-Employed)",
-    date: "August 2022 – present",
+    emoji: "🦉",
+    title: "Self-Taught Developer",
+    date: "2024 — Present",
     bullets: [
-      "Built full-stack apps with Node.js, MongoDB, and JWT auth.",
-      "Created responsive UIs with Tailwind and custom components.",
-      "Used Next.js for SSR and SEO optimization.",
+      "Built multiple adaptive UI components with custom animation logic",
+      "Refactored Figma layouts into responsive, production-ready code",
+      "Manually configured Next.js + Tailwind projects from scratch",
+      "Troubleshot complex layout and animation issues on Windows",
+      "Documented technical decisions for portfolio and interview prep",
     ],
   },
   {
-    emoji: "🏢",
-    title: "Frontend Developer @LLC WAA",
-    date: "March 2022 – August 2022",
+    emoji: "🦦",
+    title: "Personal Projects",
+    date: "Ongoing",
     bullets: [
-      "Redesigned company website and internal tools.",
-      "Built React dashboards with Redux and REST APIs.",
-      "Improved accessibility and mentored junior devs.",
-    ],
-  },
-  {
-    emoji: "🚕",
-    title: "Frontend Developer @Bit Taxi",
-    date: "August 2021 – March 2022",
-    bullets: [
-      "Developed mobile-first dashboards for fleet ops.",
-      "Used Chart.js and D3.js for data visualization.",
-      "Led frontend delivery for MVPs and OKRs.",
+      "Designed and deployed resume site with sidebar contacts",
+      "Implemented mobile-friendly header/menu with Framer Motion transitions",
+      "Iteratively polished spacing, icons, and reveal effects for professional feel",
+      "Explored backend integration with Node.js, Express, and PostgreSQL",
+      "Maintained clean project structure with reusable components and naming conventions",
     ],
   },
 ];

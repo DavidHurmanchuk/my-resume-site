@@ -41,7 +41,7 @@ export default function Biography() {
             BIOGRAPHY
           </h2>
           <p className="text-gray-300 text-lg leading-relaxed mb-8 cursor-default">
-            Hi, I’m Gitakuro — a frontend developer and UI engineer. I
+            Hi, I’m David Hurmanchuk — a frontend developer and UI engineer. I
             specialize in building adaptive, animated, and reproducible web
             interfaces using React, Next.js, Tailwind v4.1, and Framer Motion.
             <br />
@@ -53,8 +53,8 @@ export default function Biography() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 text-center cursor-default">
             {[
-              { value: "10+", label: "Projects Completed" },
-              { value: "2+", label: "Years Experience" },
+              { value: "∞", label: "UI Components Built" },
+              { value: "100%", label: "Custom Project Structure" },
               { value: "∞", label: "Ideas in Progress" },
             ].map((item) => (
               <div

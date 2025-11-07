@@ -47,7 +47,7 @@ const ProjectItem = ({
                 backgroundImage: `url(${
                   project.image || "/default-project.jpg"
                 })`,
-                minHeight: "200px",
+                minHeight: "150px",
               }}
               aria-label={`Preview of ${project.title}`}
             />

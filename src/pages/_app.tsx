@@ -1,3 +1,4 @@
+//_app.tsx
 "use client";
 import type { AppProps } from "next/app";
 import { useRouter } from "next/router";

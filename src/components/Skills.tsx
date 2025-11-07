@@ -23,7 +23,7 @@ export default function Skills() {
               viewport={{ once: true, amount: 0.3 }}
               transition={{ duration: 0.5, ease: "easeOut" }}
               className="bg-gray-800 border border-gray-700 p-6 rounded-2xl shadow-2xl 
-                         motion-safe:transform-gpu transition-transform duration-300 
+                         motion-safe:transform-gpu transition-transform duration-300
                          hover:shadow-blue-500/40 hover:-translate-y-1 cursor-default"
             >
               <h3 className="text-2xl font-bold text-blue-400 mb-6 border-b border-gray-700 pb-2">

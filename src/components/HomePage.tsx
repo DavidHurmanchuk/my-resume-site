@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 const HomePage = () => {
   const myEmail = "davidhurmanchuk@gmail.com";
-  const resumePath = "/Hurmanchuk_CV.pdf";
+  const resumePath = "/David_Hurmanchuk_FE.pdf";
   const heroImagePath = "/legushkapepe.jpg";
 
   const slideLeft = {
